@@ -1,7 +1,7 @@
 <h1 align="center"> 📝 To-do List - Desafio DIO </h1>
 
 <p align="center">
-	<img src="https://i.imgur.com/MoJnqQZ.png" alt="To-do List" title="To-do List - Desafio DIO"> </p>
+	<img src="https://i.imgur.com/78yxBg6.png" alt="To-do List" title="To-do List - Desafio DIO"> </p>
 
 
 ## 💻 Sobre o projeto
@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🖥️ Demonstração
 
-- Você pode acessar o projeto clicando <a href="https://contador-dio.vercel.app/">aqui</a>.
+- Você pode acessar o projeto clicando <a href="https://to-do-list-dio.vercel.app/">aqui</a>.
 
 ---
 
